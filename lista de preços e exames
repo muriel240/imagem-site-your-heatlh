@@ -1,0 +1,738 @@
+[
+  {
+    "Exame": "HEPATITE B - HBSAG",
+    " VALOR ": 32
+  },
+  {
+    "Exame": "CEA - ANTÍGENO CARCINOEMBRIÔNICO",
+    " VALOR ": 52
+  },
+  {
+    "Exame": "ÁCIDO ÚRICO",
+    " VALOR ": 10
+  },
+  {
+    "Exame": "ANTI-ENDOMÍSIO - ANTICORPOS IGA",
+    " VALOR ": 209
+  },
+  {
+    "Exame": "ANTI-ENDOMÍSIO - ANTICORPOS IGG",
+    " VALOR ": 209
+  },
+  {
+    "Exame": "ANTI - ENDOMÍSIO - ANTICORPOS IGM",
+    " VALOR ": 169
+  },
+  {
+    "Exame": "ÁCIDO FÓLICO",
+    " VALOR ": 38
+  },
+  {
+    "Exame": "ANTI - GLIADINA - ANTICORPOS IGA",
+    " VALOR ": 72
+  },
+  {
+    "Exame": "ANTI - GLIADINA - ANTICORPOS IGG",
+    " VALOR ": 102
+  },
+  {
+    "Exame": "ANTI - GLIADINA - IGM",
+    " VALOR ": 119
+  },
+  {
+    "Exame": "HEPATITE B - ANTI - HBE",
+    " VALOR ": 40
+  },
+  {
+    "Exame": "HEPATITE C - ANTI - HCV",
+    " VALOR ": 66
+  },
+  {
+    "Exame": "ALBUMINA",
+    " VALOR ": 19
+  },
+  {
+    "Exame": "ALDOSTERONA",
+    " VALOR ": 49
+  },
+  {
+    "Exame": "ALFAFETOPROTEÍNA",
+    " VALOR ": 48
+  },
+  {
+    "Exame": "AMILASE TOTAL",
+    " VALOR ": 12
+  },
+  {
+    "Exame": "ANDROSTENEDIONA",
+    " VALOR ": 42
+  },
+  {
+    "Exame": "IGE ESP (E1) - EPITÉLIOS - CASPA DE GATO",
+    " VALOR ": 40
+  },
+  {
+    "Exame": "APOLIPOPROTEÍNA A  - I",
+    " VALOR ": 18
+  },
+  {
+    "Exame": "APOLIPOPROTEÍNA B",
+    " VALOR ": 18
+  },
+  {
+    "Exame": "ANTI-TIREÓIDE",
+    " VALOR ": 49
+  },
+  {
+    "Exame": "ANTI-TIREOGLOBULINA",
+    " VALOR ": 52
+  },
+  {
+    "Exame": "ANTICORPOS ANTI TIROPEROXIDASE",
+    " VALOR ": 69
+  },
+  {
+    "Exame": "BILIRRUBINAS TOTAL E FRAÇÕES",
+    " VALOR ": 9
+  },
+  {
+    "Exame": "CÁLCIO",
+    " VALOR ": 10
+  },
+  {
+    "Exame": "CA 125",
+    " VALOR ": 42
+  },
+  {
+    "Exame": "CA 15-3",
+    " VALOR ": 42
+  },
+  {
+    "Exame": "CA 19-9",
+    " VALOR ": 42
+  },
+  {
+    "Exame": "CA 72-4",
+    " VALOR ": 89
+  },
+  {
+    "Exame": "CÁLCIO IONIZADO",
+    " VALOR ": 12
+  },
+  {
+    "Exame": "CALCITONINA",
+    " VALOR ": 52
+  },
+  {
+    "Exame": "CHLAMYDIA TRACHOMATIS - ANTICORPOS IGM",
+    " VALOR ": 99
+  },
+  {
+    "Exame": "CLORETO",
+    " VALOR ": 10
+  },
+  {
+    "Exame": "COAGULOGRAMA",
+    " VALOR ": 28
+  },
+  {
+    "Exame": "HDL - COLESTEROL",
+    " VALOR ": 18
+  },
+  {
+    "Exame": "LDL - COLESTEROL",
+    " VALOR ": 19
+  },
+  {
+    "Exame": "COLESTEROL TOTAL",
+    " VALOR ": 8
+  },
+  {
+    "Exame": "VLDL - COLESTEROL",
+    " VALOR ": 18
+  },
+  {
+    "Exame": "CREATINA QUINASE - CK",
+    " VALOR ": 14
+  },
+  {
+    "Exame": "CREATININA",
+    " VALOR ": 8
+  },
+  {
+    "Exame": "DEHIDROEPIANDROSTERONA - DHEA",
+    " VALOR ": 44
+  },
+  {
+    "Exame": "DI-HIDROTESTOSTERONA - DHT SINÔNIMOS",
+    " VALOR ": 66
+  },
+  {
+    "Exame": "ESTRADIOL",
+    " VALOR ": 34
+  },
+  {
+    "Exame": "ESTRONA",
+    " VALOR ": 60
+  },
+  {
+    "Exame": "ESTRIOL TOTAL  - E3",
+    " VALOR ": 99
+  },
+  {
+    "Exame": "IGE PAINEL (EX1) - ANIMAIS",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F1) - ALIMENTOS - CLARA DE OVO",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F105) - ALIMENTOS - CHOCOLATE",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F13) - ALIMENTOS - AMENDOIM",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F14) - ALIMENTOS - SOJA",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F18) - ALIMENTOS - CASTANHA DO PARÁ",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F2) - ALIMENTOS - LEITE DE VACA",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP F207 - MARISCO",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS - COUVE DE BRUXELAS (RF217)",
+    " VALOR ": 149
+  },
+  {
+    "Exame": "IGE ESP (F232) - ALIMENTOS - OVO ALBUMINA",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F24) - ALIMENTOS - CAMARÃO",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F245) - ALIMENTOS - OVO",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "FATOR II (PROTROMBINA) E FATOR V (LEIDEN) PARA TROMBOFILIAS",
+    " VALOR ": 369
+  },
+  {
+    "Exame": "COMBO FATOR II (PROTROMBINA) + FATOR V (LEIDEN) + PAPILOMAVÍRUS HUMANO (HPV) ALTO RISCO",
+    " VALOR ": 799
+  },
+  {
+    "Exame": "IGE ESP (F26) - ALIMENTOS - CARNE DE PORCO",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS, F266 - CASCA DE NOZ-MOSCADA",
+    " VALOR ": 239
+  },
+  {
+    "Exame": "IGE ESP (F27) - ALIMENTOS - CARNE DE BOI",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F287) - ALIMENTOS - FEIJÃO VERMELHO",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F3) - ALIMENTOS - PEIXE - BACALHAU",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS - F320 LAGOSTIM",
+    " VALOR ": 349
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS - F343 FRAMBOESA",
+    " VALOR ": 349
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS - F345 MACADAMIA SPP",
+    " VALOR ": 89
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS - F369 PEIXE GATO",
+    " VALOR ": 299
+  },
+  {
+    "Exame": "IGE ESP (F4) - ALIMENTOS - TRIGO",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS - RACT D 8 PR-10, KIWI (F430)",
+    " VALOR ": 599
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECÍFICOS RECOMBINANTE - RCOR A 14, AVELÃ  (F439)",
+    " VALOR ": 349
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICA - F442 RJUG R3 LTP NUEZ  (LTP RECOMBINANTE NOGUEIRA)",
+    " VALOR ": 349
+  },
+  {
+    "Exame": "IGE ESP (F55)- ALIMENTOS - MILHO COMUM",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS - MOHA (F56) ALIMENTOS",
+    " VALOR ": 199
+  },
+  {
+    "Exame": "FATOR V DE LEIDEN (G1691A) E PROTROMBINA (G20210A) - PESQUISA DE MUTAÇÃO",
+    " VALOR ": 899
+  },
+  {
+    "Exame": "FATOR V DE LEIDEN - PESQUISA DA MUTAÇÃO",
+    " VALOR ": 499
+  },
+  {
+    "Exame": "IGE ESP (F7) - ALIMENTOS - AVEIA",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F76) - ALIMENTOS - ALFA LACTOALBUMINA",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F77)- ALIMENTOS - BETA LACTOGLOBULINA",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F78) - ALIMENTOS - CASEÍNA",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F79) - ALIMENTOS - GLÚTEN",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F83) - ALIMENTOS - CARNE DE FRANGO",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "IGE ESP (F93) - ALIMENTOS - CACAU",
+    " VALOR ": 39
+  },
+  {
+    "Exame": "FOSFATASE ALCALINA",
+    " VALOR ": 10
+  },
+  {
+    "Exame": "FAN - PESQUISA DE AUTOANTICORPOS ANTICÉLULA",
+    " VALOR ": 30
+  },
+  {
+    "Exame": "FIBROSE CÍSTICA - PESQUISA DA MUTAÇÃO N1303K",
+    " VALOR ": 1499
+  },
+  {
+    "Exame": "FIBROSE CÍSTICA - PESQUISA DA MUTAÇÃO F508",
+    " VALOR ": 799
+  },
+  {
+    "Exame": "FIBROSE CÍSTICA - PESQUISA DA MUTAÇÃO G542X",
+    " VALOR ": 1499
+  },
+  {
+    "Exame": "FIBROSE CÍSTICA - PESQUISA DA MUTAÇÃO R553X",
+    " VALOR ": 1499
+  },
+  {
+    "Exame": "FERRO SÉRICO",
+    " VALOR ": 10
+  },
+  {
+    "Exame": "FENTANIL CONFIRMAÇÃO",
+    " VALOR ": 999
+  },
+  {
+    "Exame": "FENTANIL URINÁRIO CONFIRMAÇÃO",
+    " VALOR ": 999
+  },
+  {
+    "Exame": "FERRITINA",
+    " VALOR ": 38
+  },
+  {
+    "Exame": "FIBRINOGÊNIO",
+    " VALOR ": 28
+  },
+  {
+    "Exame": "FÓSFORO",
+    " VALOR ": 9
+  },
+  {
+    "Exame": "FATOR REUMATÓIDE",
+    " VALOR ": 18
+  },
+  {
+    "Exame": "FRUTOSAMINA",
+    " VALOR ": 19
+  },
+  {
+    "Exame": "HORMÔNIO FOLÍCULO ESTIMULANTE - FSH",
+    " VALOR ": 28
+  },
+  {
+    "Exame": "IGE PAINEL (FX1) - ALIMENTOS",
+    " VALOR ": 89
+  },
+  {
+    "Exame": "IGE PAINEL (FX2) - ALIMENTOS",
+    " VALOR ": 89
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS - MULTIPLE FX21 [F84, F87, F92, F95, F210] (KIWI, MELÃO, B",
+    " VALOR ": 399
+  },
+  {
+    "Exame": "IGE PAINEL (FX3) - ALIMENTOS",
+    " VALOR ": 89
+  },
+  {
+    "Exame": "IGE PAINEL (FX5) - ALIMENTOS",
+    " VALOR ": 89
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS - MULTIPLE FX71 (ALCARAVIA, NOZ MOSCADA, CARDAMOMO, CRAVIN",
+    " VALOR ": 369
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGE ESPECIFICOS - NCYN D 1 RECOMBINANTE HERBA CYNODOM DACTYLON",
+    " VALOR ": 369
+  },
+  {
+    "Exame": "ANTICORPOS IMUNOGLOBULINA IGG4 ESPECIFICOS - (I1) APIS MELLIFERA [VENENO DE DE ABELHA]",
+    " VALOR ": 189
+  },
+  {
+    "Exame": "FIBROSE CÍSTICA - PESQUISA DA MUTAÇÃO G551D",
+    " VALOR ": 1799
+  },
+  {
+    "Exame": "GLICOSE-6-FOSFATO DESIDROGENASE - G6PD - P. FILTRO",
+    " VALOR ": 49
+  },
+  {
+    "Exame": "GLICOSE-6 FOSFATO DESIDROGENASE G6PD- SANGUE TOTAL",
+    " VALOR ": 49
+  },
+  {
+    "Exame": "GAMA GLUTAMIL TRANSFERASE",
+    " VALOR ": 11
+  },
+  {
+    "Exame": "GLICOSE JEJUM",
+    " VALOR ": 8
+  },
+  {
+    "Exame": "HEPATITE B - ANTI-HBC TOTAL",
+    " VALOR ": 48
+  },
+  {
+    "Exame": "HEPATITE B - ANTI - HBC - IGM",
+    " VALOR ": 42
+  },
+  {
+    "Exame": "HEPATITE B - HBEAG",
+    " VALOR ": 40
+  },
+  {
+    "Exame": "HEMOGLOBINA GLICADA",
+    " VALOR ": 20
+  },
+  {
+    "Exame": "HEPATITE B - ANTI - HBS",
+    " VALOR ": 37
+  },
+  {
+    "Exame": "HEPATITE B - QUANTIFICAÇÃO POR PCR",
+    " VALOR ": 599
+  },
+  {
+    "Exame": "HCG - GONADOTROFINA CORIÔNICA",
+    " VALOR ": 48
+  },
+  {
+    "Exame": "HORMÔNIO DO CRESCIMENTO HUMANO - HGH",
+    " VALOR ": 59
+  },
+  {
+    "Exame": "HEPATITE A - ANTI - HVA IGG",
+    " VALOR ": 42
+  },
+  {
+    "Exame": "HEPATITE A - ANTI - HVA IGM",
+    " VALOR ": 42
+  },
+  {
+    "Exame": "IGE PAINEL (HX1) - POEIRA",
+    " VALOR ": 40
+  },
+  {
+    "Exame": "IGE ESP (I1) - INSETOS - ABELHA",
+    " VALOR ": 40
+  },
+  {
+    "Exame": "IMUNOGLOBULINA A - IGA",
+    " VALOR ": 25
+  },
+  {
+    "Exame": "IDENTIFICAÇÃO DE FUNGOS FILAMENTOSOS E LEVEDURAS POR SEQUENCIAMENTO",
+    " VALOR ": 1299
+  },
+  {
+    "Exame": "ANTICORPOS IGA ANTI HERPES SIMPLES TIPO 1",
+    " VALOR ": 399
+  },
+  {
+    "Exame": "IMUNOGLOBULINA E - IGE",
+    " VALOR ": 52
+  },
+  {
+    "Exame": "SOMATOMEDINA C - IGF - 1",
+    " VALOR ": 69
+  },
+  {
+    "Exame": "IGFBP-3 - PROTEÍNA LIGADORA IGF I - TIPO 3",
+    " VALOR ": 86
+  },
+  {
+    "Exame": "INSULINA",
+    " VALOR ": 28
+  },
+  {
+    "Exame": "INSULINA",
+    " VALOR ": 28
+  },
+  {
+    "Exame": "INSULINA LIVRE",
+    " VALOR ": 299
+  },
+  {
+    "Exame": "ÍNDICE DE SATURAÇÃO DA TRANSFERRINA",
+    " VALOR ": 40
+  },
+  {
+    "Exame": "POTASSIO",
+    " VALOR ": 8
+  },
+  {
+    "Exame": "TEMPO DE TROMBOPLASTINA PARCIAL ATIVADO",
+    " VALOR ": 12
+  },
+  {
+    "Exame": "LDH - LACTATO DESIDROGENASE",
+    " VALOR ": 25
+  },
+  {
+    "Exame": "LEPTINA",
+    " VALOR ": 68
+  },
+  {
+    "Exame": "HORMÔNIO LUTEINIZANTE - LH",
+    " VALOR ": 26
+  },
+  {
+    "Exame": "LIPASE",
+    " VALOR ": 17
+  },
+  {
+    "Exame": "PERFIL LIPÍDICO",
+    " VALOR ": 21
+  },
+  {
+    "Exame": "LIPOPROTEÍNA A",
+    " VALOR ": 87
+  },
+  {
+    "Exame": "IGE ESP (M1) - FUNGOS - PENICILLIUM NOTATUM",
+    " VALOR ": 59
+  },
+  {
+    "Exame": "IGE ESP (M2) - FUNGOS - C. HERBARUM",
+    " VALOR ": 40
+  },
+  {
+    "Exame": "IGE ESP (M207) - FUNGOS - ASPERGILLUS NIGER",
+    " VALOR ": 40
+  },
+  {
+    "Exame": "MAGNÉSIO",
+    " VALOR ": 9
+  },
+  {
+    "Exame": "SÓDIO",
+    " VALOR ": 7
+  },
+  {
+    "Exame": "PROGESTERONA",
+    " VALOR ": 28
+  },
+  {
+    "Exame": "PROLACTINA",
+    " VALOR ": 30
+  },
+  {
+    "Exame": "PSA LIVRE - ANTÍGENO PROSTÁTICO ESPECÍFICO",
+    " VALOR ": 57
+  },
+  {
+    "Exame": "PSA TOTAL - ANTÍGENO PROSTÁTICO ESPECÍFICO",
+    " VALOR ": 29
+  },
+  {
+    "Exame": "PSA TOTAL / LIVRE",
+    " VALOR ": 57
+  },
+  {
+    "Exame": "PSA TOTAL - ANTÍGENO PROSTÁTICO ESPECÍFICO  MULHER",
+    " VALOR ": 57
+  },
+  {
+    "Exame": "PROTEÍNAS TOTAIS E FRAÇÕES - SORO",
+    " VALOR ": 10
+  },
+  {
+    "Exame": "PARATORMÔNIO - PTH - MOLÉCULA INTACTA",
+    " VALOR ": 62
+  },
+  {
+    "Exame": "PROTEÍNAS TOTAIS",
+    " VALOR ": 11
+  },
+  {
+    "Exame": "SEXAGEM FETAL",
+    " VALOR ": 189
+  },
+  {
+    "Exame": "GLOBULINA LIGADORA DE HORMÔNIOS SEXUAIS",
+    " VALOR ": 62
+  },
+  {
+    "Exame": "HEMOGRAMA ",
+    " VALOR ": 12
+  },
+  {
+    "Exame": "T3 - TRIIODOTIRONINA",
+    " VALOR ": 18
+  },
+  {
+    "Exame": "T3 - TRIIODOTIRONINA LIVRE",
+    " VALOR ": 18
+  },
+  {
+    "Exame": "T3 - TRIIODOTIRONINA REVERSO",
+    " VALOR ": 90
+  },
+  {
+    "Exame": "T4 - TIROXINA",
+    " VALOR ": 18
+  },
+  {
+    "Exame": "T4 - TIROXINA LIVRE",
+    " VALOR ": 26
+  },
+  {
+    "Exame": "TEMPO DE ATIVIDADE DE PROTROMBINA - TAP",
+    " VALOR ": 24
+  },
+  {
+    "Exame": "TESTOSTERONA LIVRE",
+    " VALOR ": 63
+  },
+  {
+    "Exame": "TESTOSTERONA TOTAL",
+    " VALOR ": 35
+  },
+  {
+    "Exame": "ASPARTATO AMINOTRANSFERASE - TGO",
+    " VALOR ": 8
+  },
+  {
+    "Exame": "ALANINA AMINOTRANSFERASE TGP",
+    " VALOR ": 8
+  },
+  {
+    "Exame": "GRUPO SANGUÍNEO E FATOR RH",
+    " VALOR ": 23
+  },
+  {
+    "Exame": "TIREOGLOBULINA",
+    " VALOR ": 42
+  },
+  {
+    "Exame": "TRANSFERRINA",
+    " VALOR ": 28
+  },
+  {
+    "Exame": "TRIGLICÉRIDES",
+    " VALOR ": 12
+  },
+  {
+    "Exame": "TSH - HORMÔNIO TIREOESTIMULANTE",
+    " VALOR ": 26
+  },
+  {
+    "Exame": "PARCIAL DE URINA",
+    " VALOR ": 12
+  },
+  {
+    "Exame": "UREIA",
+    " VALOR ": 10
+  },
+  {
+    "Exame": "VITAMINA B12",
+    " VALOR ": 34
+  },
+  {
+    "Exame": "VDRL - SORO",
+    " VALOR ": 10
+  },
+  {
+    "Exame": "VDRL - SORO",
+    " VALOR ": 10
+  },
+  {
+    "Exame": "VELOCIDADE DE HEMOSSEDIMENTAÇÃO",
+    " VALOR ": 20
+  },
+  {
+    "Exame": "VITAMINA D - 25 HIDROXI",
+    " VALOR ": 75
+  },
+  {
+    "Exame": "VITAMINA A",
+    " VALOR ": 80
+  },
+  {
+    "Exame": "VITAMINA C",
+    " VALOR ": 59
+  },
+  {
+    "Exame": "VITAMINA B6",
+    " VALOR ": 136
+  },
+  {
+    "Exame": "VITAMINA E",
+    " VALOR ": 80
+  }
+]
